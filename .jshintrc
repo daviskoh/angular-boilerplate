@@ -1,0 +1,32 @@
+{
+    "globalstrict": true,
+    "browser": true,
+    "expr": true,
+    "devel": true,
+    "globals": {
+        "$": true,
+        "angular": true,
+        "jasmine": true,
+        "describe": true,
+        "module": true,
+        "beforeEach": true,
+        "afterEach": true,
+        "protractor": true,
+        "element": true,
+        "browser": true,
+        "by": true,
+        "spyOn": true,
+        "it": true,
+        "xit": true,
+        "expect": true,
+        "require": true,
+        "inject": true,
+        "helpers": true,
+        "Given": true,
+        "When": true,
+        "Then": true,
+        "karma": true,
+        "process": true
+    }
+}
+

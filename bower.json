@@ -1,0 +1,26 @@
+{
+  "name": "angular-boilerplate",
+  "version": "0.1.0",
+  "repository": "",
+  "authors": [
+
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "Gruntfile.js",
+    "package.json",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.19",
+    "angular-ui-router": "~0.2.10"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.19"
+  }
+}

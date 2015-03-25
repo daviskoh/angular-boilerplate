@@ -1,0 +1,12 @@
+// --------------------
+// Media Query Defaults
+// --------------------
+
+$mq-screen: '(min-width: 1024px)' !default;
+$mq-tablet: '(min-width: 768px) and (max-width: 1024px)' !default;
+
+$mq-tablet-portrait: '(max-width: 768px) and (min-width: 540px)' !default;
+$mq-tablet-down: '(max-width: 1024px)' !default;
+
+$mq-handheld: '(min-width: 320px) and (max-width: 600px)' !default;
+$mq-handheld-down: '(max-width: 539px)' !default;
